@@ -295,11 +295,13 @@ export const faqs = [
   {
     id: 1,
     question: "What type of projects are you interested in?",
-    answer: "I'm passionate about machine learning, data visualization, NLP, and predictive analytics. I'm particularly interested in projects that have real-world impact in healthcare, sustainability, or social good."
+    answer:
+      "I'm passionate about machine learning, data visualization, NLP, and predictive analytics. I'm particularly interested in projects that have real-world impact in healthcare, sustainability, or social good.",
   },
   {
     id: 2,
-    question:"Are you available for freelance work?",
-    answer: "Yes! I take on select freelance projects, especially those involving data analysis, machine learning model development, or data visualization. Feel free to reach out with your project details."
-  }
-]
+    question: "Are you available for internships?",
+    answer:
+      "Yes! I am actively seeking internship opportunities in data science and machine learning. I am eager to apply my skills in a practical setting and learn from industry professionals.",
+  },
+];
