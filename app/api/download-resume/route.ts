@@ -15,7 +15,7 @@ export async function GET(req: NextRequest) {
     status: 200,
     headers: {
       "Content-Type": "application/pdf",
-      "Content-Disposition": 'attachment; filename="resume.pdf"',
+      "Content-Disposition": 'attachment; filename="ngentina_cv.pdf"',
       "Content-Length": fileBuffer.length.toString(),
     },
   });
