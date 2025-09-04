@@ -66,7 +66,7 @@ export function Navigation() {
                     onClick={() => setIsOpen(false)}
                   >
                     <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground font-bold">
-                      AJ
+                      NT
                     </div>
                     <span className="font-bold text-xl">Ngen Tina</span>
                   </Link>
